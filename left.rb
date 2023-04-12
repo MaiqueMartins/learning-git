@@ -1,0 +1,3 @@
+class Left
+
+end
